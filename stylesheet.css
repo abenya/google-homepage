@@ -1,0 +1,61 @@
+p {
+    text-align: center;
+}
+
+.uppernavbar {
+    float:right;
+    margin-right: 25px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+span {
+    margin: 25px;
+}
+
+span:hover {
+    text-decoration: underline;
+}
+
+.searchbuttons {
+    margin-left: 565px;
+}
+
+img {
+    width: 500px;
+    margin-left: 420px;
+    margin-top: 150px;
+}
+
+#searchbar {
+    padding: 10px;
+    border-radius: 3px;
+    border-color: gainsboro;
+}
+
+.bottomnavbar {
+    height: 30px;
+    background-color: #f7f8f9;
+    font-family: sans-serif;
+    font-size: 12px;
+    position: relative;
+    bottom: -180px;
+    border-style: solid;
+    border-color: gainsboro;
+    border-width: 1px;
+    border-radius: 3px;
+}
+
+#leftbottom {
+    position: relative;
+    bottom: -9px;
+    left: 10px;
+}
+
+#rightbottom {
+    position: absolute;
+    bottom: 7px;
+    right: 30px;
+}
+    
